@@ -1,5 +1,5 @@
-node_modules
-src
-_MACOSX
+node_modules/
+src/
+_MACOSX/
 package-lock.json
 gulpfile.json
